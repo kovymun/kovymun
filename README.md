@@ -1,4 +1,6 @@
-## Hi there 👋
+## 👋 Hi there, I'm Koveshan!
+
+I'm a passionate software and web developer based in South Africa, driven by the love of creating useful, scalable, efficient, and meaningful applications that solve real-world problems. I thrive on solving complex challenges and am always eager to expand my knowledge and skill set across various technologies. I’m always excited to connect with others who share a passion for innovation and development.
 
 <!--
 **kovymun/kovymun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
